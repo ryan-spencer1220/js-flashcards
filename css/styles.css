@@ -1,0 +1,51 @@
+.js-showing {
+  display: none;
+}
+.operator-showing {
+  display: none;
+}
+
+.variable-showing {
+  display: none;
+}
+
+.function-showing {
+  display: none;
+}
+
+.clickable1,
+.clickable2,
+.clickable3,
+.clickable4 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+  padding: 5%;
+  margin: 3%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+h1 {
+  text-align: center;
+  padding: 5%;
+}
+
+.jumbotron {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+}
